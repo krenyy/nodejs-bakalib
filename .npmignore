@@ -1,0 +1,13 @@
+.idea
+node_modules/
+
+lib/test.d.ts
+lib/test.js
+lib/test.js.map
+src/test.ts
+
+.gitignore
+.npmignore
+.prettierrc
+tsconfig.json
+yarn.lock
