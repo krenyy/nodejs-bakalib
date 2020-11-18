@@ -1,7 +1,7 @@
 {
   "name": "bakalib",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for communicating with Bakaláři API v3.0",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
