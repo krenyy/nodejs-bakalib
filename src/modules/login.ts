@@ -1,5 +1,5 @@
 import axios from "axios";
-import * as qs from "qs";
+import qs from "qs";
 
 export default class LoginModule {
     private static endpoint: string = "/api/login";
